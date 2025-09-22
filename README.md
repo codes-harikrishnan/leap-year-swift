@@ -16,7 +16,7 @@ Analyse if an year provided is a leap year or not based on the following rules:
             - Followed ** git commit semantics**
             
 ## Usage Information
-            ```swift
+```swift
 - LeapYear.isLeapYear(2000) // True
 - LeapYear.isLeapYear(1800) // False
 - LeapYear.isLeapYear(1982) // False
