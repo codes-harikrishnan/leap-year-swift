@@ -21,5 +21,5 @@ LeapYear.isLeapYear(2000) // True
 LeapYear.isLeapYear(1800) // False
 LeapYear.isLeapYear(1982) // False
 LeapYear.isLeapYear(1984) // True
-```
+
 
